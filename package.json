@@ -1,5 +1,5 @@
 {
-  "name": "@cmglez10/ng-datatable",
+  "name": "@duanth/ng-datatable",
   "version": "0.7.0",
   "description": "DataTable component for Angular framework",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cmglez10/ng-datatable.git"
+    "url": "git+https://github.com/Duanthse03268/ng-datatable.git"
   },
   "keywords": [
     "angular",
@@ -27,7 +27,7 @@
     "sort",
     "sorting"
   ],
-  "author": "cmglez10@gmail.com",
+  "author": "duanthse03268@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mariuszfoltak/angular2-datatable/issues"
