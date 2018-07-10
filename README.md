@@ -17,7 +17,7 @@ AppModule.ts
 ```typescript
 import {NgModule} from "@angular/core";
 ...
-import {DataTableModule} from "@cmglez10/ng-datatable";
+import {DataTableModule} from "@duanth/ng-datatable";
 
 @NgModule({
     imports: [
