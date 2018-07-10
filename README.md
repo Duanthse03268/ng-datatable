@@ -1,4 +1,4 @@
-# Table component with sorting and pagination for Angular
+# Table component with sorting and pagination for Angular 6
 It is a forked version of [angular2-datatable](https://github.com/cmglez10/ng-datatable) updated to Angular 6.
 
 [![npm version](https://badge.fury.io/js/%40cmglez10%2Fng-datatable.svg)](https://badge.fury.io/js/%40cmglez10%2Fng-datatable)
